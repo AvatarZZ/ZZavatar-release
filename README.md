@@ -5,6 +5,11 @@ Ce projet a pour but de mettre en place une interface entre le capteur MS Kinect
 
 
 ### Note de version
+
+#### VERSION 0.40
+Amélioration de la stabilité du contrôle et de sa précision.
+
+#### VERSION 0.10
 Vous pouvez télécharger ici la première version exécutable. Le programme supporte les Microsoft Kinect 1 et 2. Il est possible d'ajouter vos propres avatars, pour cela reportez-vous au tutoriel "HOWTODOYOURS.txt".
 
 ###Utilisation du programme avec une MS Kinect 1
