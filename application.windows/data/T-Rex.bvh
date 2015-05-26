@@ -33,9 +33,23 @@ ROOT TORSO
 				{
 					OFFSET -0.011780 0.104355 0.157287
 					CHANNELS 3 Xrotation Zrotation Yrotation
-					End Site
+					JOINT THUMB_LEFT
 					{
 						OFFSET -0.004370 0.006465 0.053587
+						CHANNELS 3 Xrotation Zrotation Yrotation
+						End Site
+						{
+							OFFSET 0.000000 0.000000 0.000000
+						}
+					}
+					JOINT INDEX_LEFT
+					{
+						OFFSET -0.004370 0.006465 0.053587
+						CHANNELS 3 Xrotation Zrotation Yrotation
+						End Site
+						{
+							OFFSET 0.000000 0.000000 0.000000
+						}
 					}
 				}
 			}
@@ -57,9 +71,23 @@ ROOT TORSO
 				{
 					OFFSET 0.011780 0.104355 0.157287
 					CHANNELS 3 Xrotation Zrotation Yrotation
-					End Site
+					JOINT THUMB_RIGHT
 					{
 						OFFSET 0.004370 0.006465 0.053587
+						CHANNELS 3 Xrotation Zrotation Yrotation
+						End Site
+						{
+							OFFSET 0.000000 0.000000 0.000000
+						}
+					}
+					JOINT INDEX_RIGHT
+					{
+						OFFSET 0.004370 0.006465 0.053587
+						CHANNELS 3 Xrotation Zrotation Yrotation
+						End Site
+						{
+							OFFSET 0.000000 0.000000 0.000000
+						}
 					}
 				}
 			}
