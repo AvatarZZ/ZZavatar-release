@@ -1,4 +1,4 @@
-# ZZavatar v0.10
+# ZZavatar v1.0a01
 ## Projet ZZ1 Contrôle d'avatar par capteur Kinect
 ###Projet de première année à l'ISIMA
 Ce projet a pour but de mettre en place une interface entre le capteur MS Kinect et un avatar 3D afin de reproduire les mouvements de l'utilisateur sur l'avatar. Ce projet est développé en Java grâce à Processing. D'autres outils pratiques seront développés afin d'apporter une expérience simple et intuitive.
