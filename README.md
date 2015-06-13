@@ -6,6 +6,11 @@ Ce projet a pour but de mettre en place une interface entre le capteur MS Kinect
 
 ### Note de version
 
+#### VERSION 1.0a01
+Amélioration de la stabilité du contrôle et de sa précision.
+Ajout d'un fond d'écran sympathique et de la gestion de non humanoïdes.
+Caméra améliorée pour le confort.
+
 #### VERSION 0.40
 Amélioration de la stabilité du contrôle et de sa précision.
 
